@@ -11,7 +11,7 @@
 
 
 
-## Environment Variables
+## Requirements
 
 To run this project, you will need XAMPP for MySQL
 
